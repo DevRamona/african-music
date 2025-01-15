@@ -193,6 +193,102 @@ nav a:hover {
     color: #666;
 }
 
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.about-us-header {
+    background-color: #588157;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.about-us-header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+.about-us {
+    padding: 40px 20px;
+    background-color: #a3b18a;
+    color: #333;
+    text-align: center;
+}
+
+.mission-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.mission-text {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.choose-us {
+    padding: 40px 20px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.choose-us-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #588157;
+}
+
+.choose-us-list {
+    list-style-type: none;
+    padding: 0;
+    color: #333;
+}
+
+.choose-us-list li {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.choose-us-list li mark {
+    background-color: #588157;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
+.footer {
+    background-color: #588157;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.footer-title {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.footer-text {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+
+mark {
+    background-color: #588157;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
 
 
 
